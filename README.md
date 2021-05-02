@@ -2,18 +2,18 @@
 <table>
 <thead>
 <tr>
-  <th style="colour=red">S.no.</th>
-  <th>Second Header</th>
+  <th>S.no.</th>
+  <th>Contents</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-  <td>Content Cell</td>
-  <td>Content Cell</td>
+  <td>1.</td>
+  <td>Insertion sort</td>
 </tr>
 <tr>
-  <td>Content Cell</td>
-  <td>Content Cell</td>
+  <td>2.</td>
+  <td>Merge Sort/td>
 </tr>
 </tbody>
 </table>
