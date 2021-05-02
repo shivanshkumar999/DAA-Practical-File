@@ -56,7 +56,9 @@
 </tbody>
 </table>
 
----
+```
+```
+
 <br>
 
 > - ## Description
@@ -68,5 +70,4 @@ This is a Practical File on the subject **Data and Ananlysis of Algorithms**. <b
 <br>
 
 ```
----
 ```
