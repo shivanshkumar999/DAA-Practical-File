@@ -13,7 +13,7 @@
 <tbody>
 <tr>
   <td>1(a).</td>
-  <td>[Insertion sort](https://duckduckgo.com)</td>
+  <td><a href="https://github.com/shivanshkumar999/DAA-Practical-File/edit/main/README.md">Insertion sort</a></td>
 </tr>
 <tr>
  <td>1(b).</td>
