@@ -2,7 +2,7 @@
 <table>
 <thead>
 <tr>
-  <th>First Header</th>
+  <th style="colour=red">S.no.</th>
   <th>Second Header</th>
 </tr>
 </thead>
