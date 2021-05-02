@@ -1,6 +1,5 @@
 ```
 # **<div align="center">Practical File</div>**
-```
 
 ## Index
 <table>
@@ -61,3 +60,4 @@
 
 ---
 
+```
