@@ -1,3 +1,5 @@
+```
+```
 # **<div align="center">||||  DAA PRACTICAL FILE  ||||</div>**
 
 > - ## Index
@@ -55,9 +57,6 @@
 </tr>
 </tbody>
 </table>
-
-```
-```
 
 <br>
 
