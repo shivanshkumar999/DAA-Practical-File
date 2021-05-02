@@ -13,7 +13,7 @@
 <tbody>
 <tr>
   <td>1(a).</td>
-  <td>Insertion sort</td>
+  <td>[Insertion sort](https://duckduckgo.com)</td>
 </tr>
 <tr>
  <td>1(b).</td>
