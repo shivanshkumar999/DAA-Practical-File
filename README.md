@@ -3,7 +3,6 @@
 >```
 >```
 >
-> - ## Index
 ><table align="center">
 ><thead>
 ><tr>
