@@ -1,7 +1,7 @@
 ```
 DAA Practical File
 ```
-<div align="center" text-decoration="Bold">Practical File</div>
+**<div align="center">Practical File</div>**
 
 
 ## Index
