@@ -54,8 +54,7 @@
   <td>Comparisons of graphs</td>
 </tr>
 </tbody>
-</table><br>
-
+</table>
 
 ---
 
