@@ -1,4 +1,4 @@
-# ~~**<div align="center" color="Blue">||||  DAA PRACTICAL FILE  ||||</div>**~~
+# **<div align="center">||||  DAA PRACTICAL FILE  ||||</div>**
 
 ## Index
 <table>
@@ -63,5 +63,8 @@
 
 ## Description
 
-Hola Folks
-Hope You're 
+Hola Folks<br>
+Hope You're doing great.<br>
+This is a Practical File on the subject **Data and Ananlysis of Algorithms**. <br>
+_Languages used_ -> ~~C++~~<br>
+
