@@ -7,8 +7,8 @@
 ><table align="center">
 ><thead>
 ><tr>
->  <th>**S.no.**</th>
->  <th>**Contents**</th>
+>  <th>S.no.</th>
+>  <th>Contents</th>
 ></tr>
 ></thead>
 ><tbody>
