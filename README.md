@@ -65,8 +65,8 @@
 >
 >**<div align="center"> _Hola Folks_ <br>
 > Hope You're doing great <br>
-> ~~This~~ is ~~a~~ Practical ~~File~~ on ~~the~~ subject _~~Data~~ and ~~Ananlysis~~ of ~~Algorithms~~_ <br>
-> ~~Languages~~ used ~~=>~~ C++ <br>
+> This is a Practical File on the subject _Data and Ananlysis of Algorithms_ <br>
+> Languages used => C++ <br>
 ><br></div>**
 >
 >```
