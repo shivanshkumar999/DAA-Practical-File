@@ -63,11 +63,11 @@
 >
 > - ## Description
 >
-><div align="center">Hola Folks<br>
+>**<div align="center">_Hola Folks_<br>
 >Hope You're doing great.<br>
 >This is a Practical File on the subject **Data and Ananlysis of Algorithms**. <br>
->**_Languages used_** => **C++**<br>
-><br></div>
+>Languages used => C++<br>
+><br></div>**
 >
 >```
 >```
