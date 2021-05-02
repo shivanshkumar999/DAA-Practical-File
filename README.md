@@ -13,7 +13,7 @@
 </tr>
 <tr>
   <td>2.</td>
-  <td>Merge Sort/td>
+  <td>Merge Sort</td>
 </tr>
 </tbody>
 </table>
