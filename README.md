@@ -1,4 +1,5 @@
-# DAA-Practical-File
+# DAA Practical File
+<br>
 <table>
 <thead>
 <tr>
@@ -8,44 +9,48 @@
 </thead>
 <tbody>
 <tr>
-  <td>1.</td>
+  <td>1(a).</td>
   <td>Insertion sort</td>
+</tr>
+<tr>
+  <td>1(b).</td>
+  <td>Merge Sort</td>
+</tr>
+<tr>
+  <td>2.</td>
+  <td>Heap Sort</td>
 </tr>
 <tr>
   <td>3.</td>
-  <td>Merge Sort</td>
+  <td>Quick Sort</td>
 </tr>
 <tr>
-  <td>1.</td>
-  <td>Insertion sort</td>
+  <td>4.</td>
+  <td>Radix Sort</td>
 </tr>
 <tr>
   <td>5.</td>
-  <td>Merge Sort</td>
+  <td>Red - Black Tree</td>
 </tr>
 <tr>
   <td>6.</td>
-  <td>Insertion sort</td>
+  <td>Lcs</td>
 </tr>
 <tr>
   <td>7.</td>
-  <td>Merge Sort</td>
+  <td>Breadth-First Search</td>
 </tr>
 <tr>
   <td>8.</td>
-  <td>Insertion sort</td>
+  <td>Depth-First Search</td>
 </tr>
 <tr>
   <td>9.</td>
-  <td>Merge Sort</td>
-</tr>
+  <td>Minimum Spanning Tree</td>
+</tr>  
 <tr>
   <td>10.</td>
-  <td>Insertion sort</td>
-</tr>
-<tr>
-  <td>11.</td>
-  <td>Merge Sort</td>
+  <td>Comparisons of graphs</td>
 </tr>
 </tbody>
 </table>
