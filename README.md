@@ -4,7 +4,7 @@
 >```
 >
 > - ## Index
-><table align="center">
+><table align="center",color ="Red">
 ><thead>
 ><tr>
 >  <th>S.no.</th>
