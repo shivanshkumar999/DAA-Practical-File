@@ -4,7 +4,7 @@
 >```
 >
 > - ## Index
-<table>
+><table>
 ><thead>
 ><tr>
 >  <th>S.no.</th>
@@ -45,7 +45,7 @@
 >  <td>Breadth-First Search</td>
 ></tr>
 ><tr>
-v  <td>8.</td>
+>  <td>8.</td>
 >  <td>Depth-First Search</td>
 ></tr>
 ><tr>
