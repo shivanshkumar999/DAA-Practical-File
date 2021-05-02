@@ -1,4 +1,4 @@
-# **<div align="center">DAA PRACTICAL FILE</div>**
+# ~~**<div align="center">DAA PRACTICAL FILE</div>**~~
 
 ## Index
 <table>
