@@ -1,6 +1,6 @@
 # DAA Practical File
 
-## <u>Index</u>
+<u>Index</u>
 <table>
 <thead>
 <tr>
